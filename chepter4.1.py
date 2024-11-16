@@ -1,0 +1,14 @@
+friend = ["orange","sumon","33.19",False]
+print(friend[0])
+friend[0]="blue"
+print(friend[0])
+print(friend[1:4])
+friend.append("debojyot")
+print(friend[0:5])
+l1=[3,1,8,6,9,4,2,5,7,10]
+l1.sort()
+print(l1)
+l1.insert(5,5.5)
+print(l1)
+l1.reverse()
+print(l1)
